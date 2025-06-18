@@ -20,7 +20,7 @@ KAOS-Trading/
 │   │   │   ├── signup.jsp
 │   │   │   └── styles/
 │   │   │       └── styles.css
-│   │   └── ... (other folders for Java backend if needed)
+│   │   └── ... (other folders for Java)
 │   └── ...
 └── ...
 ```
