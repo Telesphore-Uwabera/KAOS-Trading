@@ -18,7 +18,7 @@
       <div class="form-title">Welcome Back</div>
       <form>
         <label>Email</label>
-        <input type="email" placeholder="Your email" required>
+        <input type="email" placeholder="Email" required>
         <label>Password</label>
         <input type="password" placeholder="Password" required>
         <div style="text-align:right; margin-bottom:12px;">

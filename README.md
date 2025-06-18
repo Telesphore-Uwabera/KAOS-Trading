@@ -26,9 +26,9 @@ KAOS-Trading/
 ```
 
 ## How to Run
-1. Place the project in your Java web server's webapps directory (e.g., Apache Tomcat).
+1. Place the project in a Java web server's webapps directory (e.g., Apache Tomcat).
 2. Make sure the JSP files and the `styles` folder are inside the `webapp` directory.
-3. Start your server and navigate to `/login.jsp` or `/signup.jsp` in your browser.
+3. Start the server and navigate to `/login.jsp` or `/signup.jsp` in a browser.
 
 ## Customization
 - Update images or text in the JSP files as needed.

@@ -18,11 +18,11 @@
       <div class="form-title">Create Account</div>
       <form>
         <label>Full name</label>
-        <input type="text" placeholder="Your full name" required>
+        <input type="text" placeholder="Full name" required>
         <label>Mobile Number</label>
         <input type="text" placeholder="+250..." required>
         <label>Email</label>
-        <input type="email" placeholder="Your email" required>
+        <input type="email" placeholder="Email" required>
         <label>Password</label>
         <input type="password" placeholder="Password" required>
         <label>Confirm Password</label>
